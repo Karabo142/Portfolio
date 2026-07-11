@@ -60,7 +60,9 @@ Completed in 2022
 
 ## 🎥 Demo Video
 
-[ Watch on YouTube](https://youtube.com/shorts/dz62FRYtydU?si=bGgUPno9IcAVXIUo)
+Click the image below to watch my mock interview.
+
+[![Mock Interview](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
 
 ##  Reflection on Coding in Markdown (STAR Method)
