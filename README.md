@@ -108,5 +108,47 @@ I created a GitHub repository and uploaded my Markdown files. I then enabled Git
 ### Result
 I successfully published my portfolio online using GitHub Pages. The portfolio is accessible through a link and presents my work professionally. I also gained practical experience in deploying web content.
 
+## Agile Logbook: UniMarket
+
+### 1. Overview & Artifact Collection (Collect)
+During the development of the **UniMarket** platform, daily Agile standups were recorded to track task completion, set upcoming goals, and identify operational blockers or risks across key project sprints[cite: 1, 3, 5, 10].
+
+* **Sprint 1: UI/UX Research & Navigation Mapping (21–24 July 2026)**
+  * **Completed:** Analyzed marketplace app design patterns familiar to university students and mapped out core navigation flows[cite: 3].
+  * **Logbook Evidence:** [View Logbook: 21–24 July 2026](./logbooks/Karabo_Mpalakane_Logbook_21-24_July_2026.pdf)[cite: 3]
+
+* **Sprint 2: Walkthrough Presentation & Visual Consistency (28–31 July 2026)**
+  * **Completed:** Structured user journey walkthrough slides demonstrating safe student-to-student buying and selling, and synchronized design styles[cite: 5].
+  * **Logbook Evidence:** [View Logbook: 28–31 July 2026](./logbooks/Karabo_Mpalakane_Logbook_28-31_July_2026.pdf)[cite: 5]
+
+* **Sprint 3: Business Model, Partnerships & Final Pitch (4–7 August 2026)**
+  * **Completed:** Researched campus partners, designed subscription model comparison graphics, and rehearsed timed pitches[cite: 1, 2].
+  * **Logbook Evidence:** [View Logbook: 4–7 August 2026](./logbooks/Karabo_Mpalakane_Logbook_4-7_August_2026.pdf)[cite: 1]
+
+---
+
+### 2. Evidence Selection & Critical Evaluation (Select)
+From our daily logs, two key milestone artifacts were selected as primary evidence of Agile execution:
+1. **App Navigation Map & Walkthrough Slides (July 2026):** Proof of user-centered design planning, breaking down complex features into intuitive user paths[cite: 3, 5].
+2. **Subscription Model Tier Graphics & Pitch Deck (August 2026):** Demonstrates financial and operational planning, translating platform monetization concepts into visual models[cite: 1].
+
+---
+
+### 3. Structured Agile Reflection (Reflect)
+
+#### Managing Scope and Design Choices (July 2026)
+During the initial UI/UX phase, our primary risk was avoiding feature creep and narrowing down extensive marketplace research into clear, actionable design choices[cite: 3]. Using daily standups allowed us to identify early blockers—such as determining the exact number of screens to include in the user walkthrough without cluttering the presentation[cite: 3, 5]. By discussing this daily, we established clear limits and prioritized core user journeys over redundant edge-case screens[cite: 3, 5].
+
+#### Balancing Viability and Usability (August 2026)
+In the partnership and monetization phase, a significant challenge was designing a subscription model that remained affordable for university students while ensuring the platform's long-term sustainability[cite: 1]. Tracking progress daily enabled us to break down complex business requirements into distinct visual deliverables[cite: 1]. Iteratively revising our graphics ensured that pricing tiers remained clear, transparent, and easy to evaluate at a glance[cite: 1].
+
+#### Time Management & Team Coordination
+Across both sprints, team standups served as an essential tool for timing group presentations, coordinating speaker transitions, and agreeing on strategic cuts when presentation time limits were tight[cite: 2, 5]. The Agile logbook transformed raw daily tasks into a continuous reflection on how our team solved problems, adapted to feedback, and aligned individual responsibilities toward a cohesive deliverable[cite: 1, 2, 5].
+
+---
+
+### 4. Synthesis & Connections (Connect)
+* **Connection to User Stories & Backlog:** Daily standup tasks directly reflected items prioritized in our Product and Sprint Backlogs (such as defining user authentication and screen navigation flows)[cite: 3, 10].
+* **Connection to Team Charter & Collaboration:** Transparent tracking of blockers and tasks ensured equitable workload distribution and maintained clear accountability across all team members throughout the project lifecycle[cite: 1, 5, 10].
 
 
