@@ -159,7 +159,7 @@ Reflection
 My assigned role in UniMarket was Writer/Editor, but in practice I also contributed UI/UX research and helped coordinate the team's presentation work. Our charter says we work as one group with shared responsibility, and this showed in how we handled the walkthrough slides. I shared my research notes with the team, checked my navigation map against my teammates' screen designs, and supported them with their slides. One challenge was agreeing on one consistent design style across everyone's slides. We solved it by comparing colour schemes and fonts, then agreeing on one set. Later, we agreed as a team who would answer which questions during the pitch. The shared Trello board, including the UI Design System card, shows the team's agreed design standards. This taught me that a charter only works when the team keeps checking in with each other.
 
 Evidence
-Team roles: [ADD LINK OR SCREENSHOT OF ROLES]<img width="930" height="336" alt="WhatsApp Image 2026-11-14 at 21 03 52" src="https://github.com/user-attachments/assets/f1a0cf72-2f0e-4077-9310-fbfeafb57f43" />
+Team roles: <img width="930" height="336" alt="WhatsApp Image 2026-11-14 at 21 03 52" src="https://github.com/user-attachments/assets/f1a0cf72-2f0e-4077-9310-fbfeafb57f43" />
 
 UniMarket Trello board: UI Design System card (100% complete)
 [View Logbook: 28–31 July 2026](./logbooks/Karabo_Mpalakane_Logbook_28-31_July_2026.pdf)
@@ -194,4 +194,4 @@ Evidence
 [View Logbook: 28–31 July 2026](./logbooks/Karabo_Mpalakane_Logbook_28-31_July_2026.pdf)
 
 Logbook 4–7 August 2026
-UniMarket Trello board: completed cards
+UniMarket Trello board: completed cards [View the UniMarket Trello board](https://trello.com/b/HI2GaCZ5/unimarket?classId=f5994848-7838-4e85-89a6-2e3fa5e010df&assignmentId=db17074e-4572-4737-acb7-1bd71e259fa0&submissionId=fae0da5f-cad8-303f-fbae-ba542069202a)
