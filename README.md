@@ -194,5 +194,6 @@ The Sprint Backlog helped us turn the plan into tasks we could finish within a w
 Evidence
 [View Logbook: 28–31 July 2026](./logbooks/Karabo_Mpalakane_Logbook_28-31_July_2026.pdf)
 
-Logbook 4–7 August 2026
+[View Logbook: 4–7 August 2026](./logbooks/Karabo_Mpalakane_Logbook_4-7_August_2026.pdf)
+
 UniMarket Trello board: completed cards [View the UniMarket Trello board](https://trello.com/b/HI2GaCZ5/unimarket?classId=f5994848-7838-4e85-89a6-2e3fa5e010df&assignmentId=db17074e-4572-4737-acb7-1bd71e259fa0&submissionId=fae0da5f-cad8-303f-fbae-ba542069202a)
