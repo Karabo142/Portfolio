@@ -183,6 +183,7 @@ UniMarket Trello board: Completed list (UX & UI Design, Discovery & Research, Co
 Trello board screenshots: [ADD LINK OR SCREENSHOT]<img width="1600" height="705" alt="WhatsApp Image 2026-11-14 at 21 03 52 (1)" src="https://github.com/user-attachments/assets/8078ebda-f61b-46de-ac92-e9c959f68795" />
 
 [View Logbook: 28–31 July 2026](./logbooks/Karabo_Mpalakane_Logbook_28-31_July_2026.pdf)
+
 [View Logbook: 4–7 August 2026](./logbooks/Karabo_Mpalakane_Logbook_4-7_August_2026.pdf)
 
 Sprint Backlog
