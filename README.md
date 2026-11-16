@@ -108,7 +108,7 @@ I created a GitHub repository and uploaded my Markdown files. I then enabled Git
 ### Result
 I successfully published my portfolio online using GitHub Pages. The portfolio is accessible through a link and presents my work professionally. I also gained practical experience in deploying web content.
 
-## Agile Logbook: UniMarket
+# Agile Logbook: UniMarket
 
 ### 1. Overview & Artifact Collection (Collect)
 During the development of the **UniMarket** platform, daily Agile standups were recorded to track task completion, set upcoming goals, and identify operational blockers or risks across key project sprints.
@@ -151,4 +151,47 @@ Across both sprints, team standups served as an essential tool for timing group 
 * **Connection to User Stories & Backlog:** Daily standup tasks directly reflected items prioritized in our Product and Sprint Backlogs (such as defining user authentication and screen navigation flows).
 * **Connection to Team Charter & Collaboration:** Transparent tracking of blockers and tasks ensured equitable workload distribution and maintained clear accountability across all team members throughout the project lifecycle.
 
+## Agile Logbook: UniMarket
+
+### 1. Overview & Artifact Collection (Collect)
+During the development of the **UniMarket** platform, daily Agile standups were recorded to track task completion, set upcoming goals, and identify operational blockers or risks across key project sprints.
+
+* **Sprint 1: UI/UX Research & Navigation Mapping (21–24 July 2026)**
+  * **Completed:** Analyzed marketplace app design patterns familiar to university students and mapped out core navigation flows.
+  * **Logbook Evidence:** [View Logbook: 21–24 July 2026](./logbooks/Karabo_Mpalakane_Logbook_21-24_July_2026.pdf)
+
+* **Sprint 2: Walkthrough Presentation & Visual Consistency (28–31 July 2026)**
+  * **Completed:** Finalised the navigation map, created my part of the user journey walkthrough slides showing how students buy and sell items safely, and worked with the team towards one consistent design style.
+  * **Logbook Evidence:** [View Logbook: 28–31 July 2026](./logbooks/Karabo_Mpalakane_Logbook_28-31_July_2026.pdf)
+
+* **Sprint 3: Business Model, Partnerships & Final Pitch (4–7 August 2026)**
+  * **Completed:** Researched campus partners, designed subscription model comparison graphics, and rehearsed timed pitches.
+  * **Logbook Evidence:** [View Logbook: 4–7 August 2026](./logbooks/Karabo_Mpalakane_Logbook_4-7_August_2026.pdf)
+
+---
+
+### 2. Evidence Selection & Critical Evaluation (Select)
+From our daily logs, three key artifacts were selected as primary evidence of Agile execution:
+1. **App Navigation Map & Walkthrough Slides (July 2026):** Proof of user-centered design planning, breaking down complex features into intuitive user paths.
+2. **Subscription Model Tier Graphics & Pitch Deck (August 2026):** Demonstrates financial and operational planning, translating platform monetization concepts into visual models.
+3. **Team Trello Board (July-August 2026):** Shared evidence of the team's completed tasks, including UX & UI Design, Discovery & Research and UI Design System. [View the UniMarket Trello board](https://trello.com/b/HI2GaCZ5/unimarket?classId=f5994848-7838-4e85-89a6-2e3fa5e010df&assignmentId=db17074e-4572-4737-acb7-1bd71e259fa0&submissionId=fae0da5f-cad8-303f-fbae-ba542069202a)
+
+---
+
+### 3. Structured Agile Reflection (Reflect)
+
+#### Managing Scope and Design Choices (July 2026)
+During the initial UI/UX phase, our primary risk was avoiding too many different ideas and narrowing extensive marketplace research into clear, actionable design choices. Daily standups allowed us to identify early blockers, such as deciding how many screens to include in the user walkthrough without making the slides too crowded. By discussing this daily, we agreed to focus on the key user journey, from signing up to listing and buying an item.
+
+#### Balancing Viability and Usability (August 2026)
+In the partnership and monetization phase, a significant challenge was designing a subscription model that remained affordable for university students while keeping the platform sustainable. Tracking progress daily helped me break the business requirements into distinct visual deliverables. Revising the graphics based on team feedback kept the pricing tiers clear and easy to compare at a glance.
+
+#### Time Management & Team Coordination
+Across both sprints, team standups helped us time our group presentations, smooth the transitions between speakers, and agree which points to cut when presentation time was tight. The Agile logbook turned raw daily tasks into a continuous reflection on how our team solved problems, adapted to feedback, and worked towards one cohesive deliverable.
+
+---
+
+### 4. Synthesis & Connections (Connect)
+* **Connection to User Stories & Backlog:** Daily standup tasks reflected items in our Product and Sprint Backlogs, such as defining screen navigation flows and deciding the walkthrough scope.
+* **Connection to Team Charter & Collaboration:** Transparent tracking of blockers and tasks kept everyone aware of what each person was working on, and we agreed as a team who would answer which questions during the pitch.
 
