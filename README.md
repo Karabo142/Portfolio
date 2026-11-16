@@ -153,3 +153,45 @@ Across both sprints, team standups helped us time our group presentations, smoot
 * **Connection to User Stories & Backlog:** Daily standup tasks reflected items in our Product and Sprint Backlogs, such as defining screen navigation flows and deciding the walkthrough scope.
 * **Connection to Team Charter & Collaboration:** Transparent tracking of blockers and tasks kept everyone aware of what each person was working on, and we agreed as a team who would answer which questions during the pitch.
 
+Agile Team Charter
+Reflection
+
+My assigned role in UniMarket was Writer/Editor, but in practice I also contributed UI/UX research and helped coordinate the team's presentation work. Our charter says we work as one group with shared responsibility, and this showed in how we handled the walkthrough slides. I shared my research notes with the team, checked my navigation map against my teammates' screen designs, and supported them with their slides. One challenge was agreeing on one consistent design style across everyone's slides. We solved it by comparing colour schemes and fonts, then agreeing on one set. Later, we agreed as a team who would answer which questions during the pitch. The shared Trello board, including the UI Design System card, shows the team's agreed design standards. This taught me that a charter only works when the team keeps checking in with each other.
+
+Evidence
+Team roles: [ADD LINK OR SCREENSHOT OF ROLES]<img width="930" height="336" alt="WhatsApp Image 2026-11-14 at 21 03 52" src="https://github.com/user-attachments/assets/f1a0cf72-2f0e-4077-9310-fbfeafb57f43" />
+
+UniMarket Trello board: UI Design System card (100% complete)
+[View Logbook: 28–31 July 2026](./logbooks/Karabo_Mpalakane_Logbook_28-31_July_2026.pdf)
+[View Logbook: 4–7 August 2026](./logbooks/Karabo_Mpalakane_Logbook_4-7_August_2026.pdf)
+User Stories and Tasks
+Reflection
+
+User stories helped me think about UniMarket from the point of view of a student, not just as a list of features. My main contribution was the navigation map, which shows how a user moves between the home page, product listings, the cart and their profile, from signing up to listing and buying an item. Before finalising it, I checked it against my teammates' screen designs so the flow matched what they had built. I then used the map as the base for my part of the walkthrough slides, which explain how a student can buy and sell items safely and conveniently. I broke the journey into tasks: researching marketplace layouts, mapping the navigation, creating my part of the walkthrough slides and rehearsing with the team. My research on popular marketplace apps also showed me which patterns students already find familiar, which made the journey easier to plan. The biggest lesson was that a user story is only useful when the whole flow connects. A student needs to be able to sign up, find an item and buy it without getting lost, and the team has to design each screen with that journey in mind.
+
+Evidence
+Navigation map (sign up, list, buy, cart, profile): [ADD LINK]
+My part of the walkthrough slides: [ADD LINK]
+[View Logbook: 28–31 July 2026](./logbooks/Karabo_Mpalakane_Logbook_28-31_July_2026.pdf)
+Product Backlog
+Reflection
+
+The Product Backlog helped us decide what UniMarket needed to include and what could wait. My main contribution was keeping the research from growing the scope. My logbook for 28 July notes that the challenge was narrowing my UI/UX research on marketplace apps down to a few clear design decisions, so we wouldn't end up with too many different ideas. In the same way, we had to decide how many screens to show in the walkthrough, so the slides covered the key journey of signing up, listing and buying without becoming crowded. In August, we applied the same thinking to the partnership pitch by choosing partnership benefits that a new platform could realistically promise. The Trello board shows these priorities as completed cards such as UX & UI Design and Discovery & Research.
+
+Evidence
+UniMarket Trello board: Completed list (UX & UI Design, Discovery & Research, Conduct Survey & Data Collection, Data Analysis & Insights)
+Trello board screenshots: [ADD LINK OR SCREENSHOT]<img width="1600" height="705" alt="WhatsApp Image 2026-11-14 at 21 03 52 (1)" src="https://github.com/user-attachments/assets/8078ebda-f61b-46de-ac92-e9c959f68795" />
+
+[View Logbook: 28–31 July 2026](./logbooks/Karabo_Mpalakane_Logbook_28-31_July_2026.pdf)
+[View Logbook: 4–7 August 2026](./logbooks/Karabo_Mpalakane_Logbook_4-7_August_2026.pdf)
+
+Sprint Backlog
+Reflection
+
+The Sprint Backlog helped us turn the plan into tasks we could finish within a week. In the week of 28 July, my tasks were finishing the navigation map, creating my part of the walkthrough slides and rehearsing with the team. Two problems came up in my logbook. The first was deciding how many screens to include in the walkthrough. We decided to show only the key user journey so the slides would not be crowded. The second was time management, because we had a lot to cover and did not want to rush. We rehearsed together, gave each other feedback on pace and clarity, and prepared backup points for questions. In August, we faced the same challenge with the partnership pitch, so we timed each section and agreed which points to cut to fit the time limit. This taught me that a sprint backlog works best when the tasks are realistic and the team reviews its progress at every standup.
+
+Evidence
+[View Logbook: 28–31 July 2026](./logbooks/Karabo_Mpalakane_Logbook_28-31_July_2026.pdf)
+
+Logbook 4–7 August 2026
+UniMarket Trello board: completed cards
