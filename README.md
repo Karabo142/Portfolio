@@ -170,8 +170,8 @@ Reflection
 User stories helped me think about UniMarket from the point of view of a student, not just as a list of features. My main contribution was the navigation map, which shows how a user moves between the home page, product listings, the cart and their profile, from signing up to listing and buying an item. Before finalising it, I checked it against my teammates' screen designs so the flow matched what they had built. I then used the map as the base for my part of the walkthrough slides, which explain how a student can buy and sell items safely and conveniently. I broke the journey into tasks: researching marketplace layouts, mapping the navigation, creating my part of the walkthrough slides and rehearsing with the team. My research on popular marketplace apps also showed me which patterns students already find familiar, which made the journey easier to plan. The biggest lesson was that a user story is only useful when the whole flow connects. A student needs to be able to sign up, find an item and buy it without getting lost, and the team has to design each screen with that journey in mind.
 
 Evidence
-Navigation map (sign up, list, buy, cart, profile): [ADD LINK]
-My part of the walkthrough slides: [ADD LINK]
+Navigation map (sign up, list, buy, cart, profile):
+My part of the walkthrough slides:
 [View Logbook: 28–31 July 2026](./logbooks/Karabo_Mpalakane_Logbook_28-31_July_2026.pdf)
 Product Backlog
 Reflection
@@ -180,7 +180,7 @@ The Product Backlog helped us decide what UniMarket needed to include and what c
 
 Evidence
 UniMarket Trello board: Completed list (UX & UI Design, Discovery & Research, Conduct Survey & Data Collection, Data Analysis & Insights)
-Trello board screenshots: [ADD LINK OR SCREENSHOT]<img width="1600" height="705" alt="WhatsApp Image 2026-11-14 at 21 03 52 (1)" src="https://github.com/user-attachments/assets/8078ebda-f61b-46de-ac92-e9c959f68795" />
+Trello board screenshots:<img width="1600" height="705" alt="WhatsApp Image 2026-11-14 at 21 03 52 (1)" src="https://github.com/user-attachments/assets/8078ebda-f61b-46de-ac92-e9c959f68795" />
 
 [View Logbook: 28–31 July 2026](./logbooks/Karabo_Mpalakane_Logbook_28-31_July_2026.pdf)
 
