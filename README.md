@@ -170,6 +170,7 @@ Reflection
 User stories helped me think about UniMarket from the point of view of a student, not just as a list of features. My main contribution was the navigation map, which shows how a user moves between the home page, product listings, the cart and their profile, from signing up to listing and buying an item. Before finalising it, I checked it against my teammates' screen designs so the flow matched what they had built. I then used the map as the base for my part of the walkthrough slides, which explain how a student can buy and sell items safely and conveniently. I broke the journey into tasks: researching marketplace layouts, mapping the navigation, creating my part of the walkthrough slides and rehearsing with the team. My research on popular marketplace apps also showed me which patterns students already find familiar, which made the journey easier to plan. The biggest lesson was that a user story is only useful when the whole flow connects. A student needs to be able to sign up, find an item and buy it without getting lost, and the team has to design each screen with that journey in mind.
 
 Evidence
+
 **Sign Up:** Create your account today and join UniMarket to discover affordable study materials from fellow students.
 
 ![Sign Up / Login screen](images/sign-up-login.png.png)
