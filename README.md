@@ -171,9 +171,6 @@ User stories helped me think about UniMarket from the point of view of a student
 
 Evidence
 My part of the walkthrough slides (navigation map screens):
-
-**Sign Up / Login:** where students create accounts or log in.
-
 ![Sign Up / Login screen](https://karabo142.github.io/Portfolio/images/sign-up-login.png)
 
 **Home Page:** where students see available products.
@@ -187,7 +184,7 @@ My part of the walkthrough slides (navigation map screens):
 **Profile:** where students view and manage their account.
 
 ![Profile screen](https://karabo142.github.io/Portfolio/images/profile.png)
-My part of the walkthrough slides:
+
 [View Logbook: 28–31 July 2026](./logbooks/Karabo_Mpalakane_Logbook_28-31_July_2026.pdf)
 Product Backlog
 Reflection
